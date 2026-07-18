@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Panca's Portofolio
+Welcome to my data Portofolio!
+
+## Table of content
+
+-[Excel](#excel)
+-[SQL](#sql)
+-[Python](#python)
+-[Data Visualization](#datavisual)
