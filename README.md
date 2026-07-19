@@ -26,7 +26,7 @@ Welcome to my data Portofolio!
 
 # EXCEL
 
-| Project Link | Area | Project Description | Link drive | 
+| Project Link | Area | Project Description | Link Drive | 
 |---|---|---|---|
 
 ***
@@ -48,5 +48,5 @@ Welcome to my data Portofolio!
 
 # Data Visualization
 
-| Project Link | Area | Project Description | Link dashboard | 
+| Project Link | Area | Project Description | Link Dashboard | 
 |---|---|---|---|
