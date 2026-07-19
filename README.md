@@ -35,8 +35,8 @@ Welcome to my data Portofolio!
 # Python
 
 | Project Link | Area | Project Description | Libraries | 
-|---|---|---| 
-| Thesis-Project (https://github.com/m85sinv-Pan/Analisis-Nilai-Rumah-di-Wilayah-Jabodetabek-Menggunakan-Hedonic-Price-Model-dan-Machine-Learning) | Data Cleaning, EDA, Pediction Using Machine learning, Interpretation Using SHAP. | Analysis predictive housing price in Jabodetabek using HPM Theory, Machine learning, SHAP, and K-means clustering. | Pandas, Numpy, Matplotlib, Seaborn, ETC. |
+|---|---|---|---|
+|🏘️ [Thesis-Project](https://github.com/m85sinv-Pan/Analisis-Nilai-Rumah-di-Wilayah-Jabodetabek-Menggunakan-Hedonic-Price-Model-dan-Machine-Learning) | Data Cleaning, EDA, Predictive analytic using Machine learning, Interpretation using SHAP. | Analysis predictive housing price in Jabodetabek using HPM Theory, Machine learning, SHAP, and K-means clustering. | Pandas, Numpy, Matplotlib, Seaborn, ETC. |
 
 ****
 
