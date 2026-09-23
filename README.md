@@ -28,7 +28,7 @@ Welcome to my data Portofolio!
 
 | Project Link | Area | Project Description | Link Drive | 
 |---|---|---|---|
-| 💰 [Sales-Dashboard] | Pivot Table, Vlookup, Xlookup, Ifs, Data Visualization | 
+| 💰 [Sales-Dashboard](https://github.com/m85sinv-Pan/Sales_Dashboard_Excel) | Pivot Table, Vlookup, Xlookup, Ifs, Data Visualization | Analysis sales performance in UK | https://drive.google.com/drive/folders/1Dxp-dA2BlJ63RPC4rKPeEBNF-hcQve7B |
 
 ***
 
