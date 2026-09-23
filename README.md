@@ -28,6 +28,7 @@ Welcome to my data Portofolio!
 
 | Project Link | Area | Project Description | Link Drive | 
 |---|---|---|---|
+| 💰 [Sales-Dashboard] | Pivot Table, Vlookup, Xlookup, Ifs, Data Visualization | 
 
 ***
 
